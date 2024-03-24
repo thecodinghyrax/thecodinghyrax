@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Drew@thecodinghyrax
 - 👀 I’m interested in all things tech
-- 🌱 I’m currently enrolled in a CIS program (to be completed at the end of spring 2023) and learning Python, SQL, C++ and C#
+- 🌱 ~~I’m currently enrolled in~~ Just finished a CIS program ~~(to be completed at the end of spring 2023)~~ and learning Python, SQL, C++ and C#
 - 📫 How to reach me thecodinghyrax@gmail.com
 - 📺 [Drew in the dark - Youtube](https://www.youtube.com/channel/UCzGNAIqay_p-WialgGPv--w) for school project demos and maybe a few tutorials
 
